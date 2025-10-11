@@ -14,7 +14,7 @@ This repository is open to **students, developers, and beginners** who wish to m
    - Click the “Fork” button (top-right corner)
    - Clone your fork locally:
      ```bash
-     git clone https://github.com/<your-username>/industrus-hacktoberfest-2025.git
+     git clone https://github.com/industrustech/Industrus-Tech-VCS-Hack-2025.git
      ```
 
 3. **Create a new branch**
