@@ -28,7 +28,7 @@ Each script is beginner-friendly, well-documented, and created to help users lea
 
 ---
 
-## 🧰 Upcoming Scripts
+## 🧰 Scripts Index
 
 | Script Name | Description |
 |--------------|-------------|
