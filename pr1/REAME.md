@@ -1,6 +1,6 @@
 # ⚙️ Automated Windows Batch Scripts
 
-Welcome to my contribution for **Industrus Tech VCS Hack 2025**!  
+Welcome to my contribution (elwin) for **Industrus Tech VCS Hack 2025**!  
 This project is part of the Hacktoberfest initiative under the repository  
 👉 [Industrus-Tech-VCS-Hack-2025](https://github.com/industrustech/Industrus-Tech-VCS-Hack-2025.git)
 
